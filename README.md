@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jaume Bonells
+# 🗺 Jaume's Portfolio
 
 🚧 **This portfolio is currently a Work In Progress.**
 
