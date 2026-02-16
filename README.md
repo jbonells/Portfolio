@@ -1,80 +1,54 @@
-# 🗺 Jaume's Portfolio
+# 👷‍♂️ Work In Progress: My GitHub Portfolio
 
-🚧 **This portfolio is currently a Work In Progress.**
+Welcome! This repository is a **work in progress** as I build and organize my data analytics portfolio. I’m using this space to document my learning journey, showcase projects, and experiment with new tools and techniques.
 
-> I am actively building projects as I transition into a Data Analyst role.
+## 🚀 About This Portfolio
 
----
+This repository will evolve over time as I add projects, refine documentation, and align everything with my professional goals in **data analytics**.  
+Currently, I’m focusing on:
 
-## 🎯 Career Goal
+- 🧮 Building hands-on data analytics projects using **Python**, **SQL**, and **Power BI**
+- 🗂 Structuring datasets and analysis workflows
+- 📊 Practicing data storytelling and visualization
+- ⚙️ Establishing version control best practices with **GitHub**
 
-Transitioning from Senior Business Analyst to **Data Analyst**, focusing on:
+## 📁 Planned Repository Structure
 
-- Data Cleaning & Transformation
-- Business Intelligence & Reporting
-- Financial & Operational Analytics
-- End-to-End Data Projects
+Here’s an outline of what I’m working toward:
 
----
+- `/projects` → Individual analysis or visualization projects (in progress)
+- `/datasets` → Public, cleaned data for learning and practice
+- `/scripts` → Reusable code snippets and data prep scripts
+- `/notebooks` → Exploratory data analysis and documentation notebooks
+- `/docs` → Project notes, guides, and portfolio updates
 
-## 🛠️ Skills (In Progress)
+## 💡 Next Steps
 
-### 📊 Excel
-- Advanced Formulas (INDEX/MATCH, XLOOKUP, SUMIFS)
-- Pivot Tables & Dashboards
-- Power Query
-- Financial Data Modelling Basics
+- [ ] Upload initial data cleaning project (Python)
+- [ ] Create a Power BI dashboard example
+- [ ] Add detailed project READMEs
+- [ ] Build a professional GitHub profile README
 
-### 🗄️ SQL
-- Window functions: `ROW_NUMBER()`, `RANK()`, `LEAD()`, `LAG()`
-- Common Table Expressions (CTEs)
-- Aggregations
-- Subqueries
+## 🧠 Current Focus
 
-### 📈 Power BI *(Currently Learning)*
-- Data Modelling
-- DAX Fundamentals
-- Interactive Dashboards
-- KPI Reporting
+At the moment, I’m learning and applying:
 
-### 📐 Statistics *(Currently Learning)*
-- Descriptive statistics
-- Basic probability
-- Business-focused data interpretation
+- SQL querying and database management  
+- Python for data wrangling (**pandas**, **matplotlib**, **seaborn**)  
+- Power BI for interactive reporting  
+- Clear communication through data storytelling
 
----
+## 📬 Connect With Me
 
-## 📂 Featured Projects
+I’d love to connect and discuss projects, ideas, or analytics challenges.  
+Find me on:
 
-> More projects coming soon — currently building end-to-end portfolio projects.
-
-### 1️⃣ Finance Dashboard (Excel + Power Query)
-**Status:** In Progress  
-- Data Cleaning using Power Query  
-- KPI Dashboard for Revenue & Cost Analysis  
-- Executive Summary Insights  
-
-### 2️⃣ Sales Analysis Dashboard (Power BI)
-**Status:** Planned  
-- Data Modelling  
-- DAX Measures  
-- Business Recommendations  
-
----
-
-## 🔄 What I’m Currently Working On
-
-- Learning Statistics for Data Analysis
-- Business Intelligence with Power Query & DAX
-- Building 2–3 strong end-to-end projects
-
----
-
-## 📬 Contact
-
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jbonells)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jbonells)
 - **Location:** London, UK
+- **Portfolio Website:** _coming soon_
 
 ---
 
-⚡ *This repository will evolve as my skills grow. Check back soon for full end-to-end projects with real business case studies.*
+## ⚠️ Work In Progress Disclaimer
+
+This repository is actively under development — expect regular updates, reorganized content, and ongoing experiments as I refine my portfolio.
